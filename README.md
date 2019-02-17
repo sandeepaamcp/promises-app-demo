@@ -1,3 +1,10 @@
+## Run the server side
+To test the server side, you can create a local mock-server from json-server. 
+For that, install JSON Server by `npm install -g json-server`.
+Then, open a new terminal window inside the server folder in the project and type `json-server --watch --delay 4000 db.json`
+This will simulate a delay of 4000 ms until server sends the response.
+The data in the json file can then be accessed from the endpoint, localhost:3000/db
+
 # PromisesAppDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
