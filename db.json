@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Get and Set methods in Java",
+        "img": "https://i1.wp.com/www.geek-programmer.com/wp-content/uploads/2017/03/toolkit-featured-image-for-java.jpg?resize=678%2C381&ssl=1",
+        "description": "This lesson is about getter and setter methods in java which is a technique used as a part of programming language mechanism, encapsulation. First of all, let me tell you what is encapsulation.",
+        "url": "https://www.geek-programmer.com/get-and-set-methods-in-java/"
+    },
+    {
+        "title": "Java Blocking Queues Explained!",
+        "img": "https://i2.wp.com/www.geek-programmer.com/wp-content/uploads/2017/08/tertia-van-rensburg-37121.jpg?resize=678%2C381&ssl=1",
+        "description": "A computational problem can be decomposed in to pieces. Why? Because we can solve those pieces separately and get the final solution. There are several cores in most of the computer’s processors nowadays so we can share the pieces among the cores",
+        "url": "https://www.geek-programmer.com/java-blocking-queues-explained/"
+    },
+    {
+        "title": "About us",
+        "img": "https://i0.wp.com/www.geek-programmer.com/wp-content/uploads/2017/01/hands-with-chains-background_1343-22.jpg?w=626&ssl=1",
+        "description": "Geek-programmer is a blog for programmers who are collecting knowledge to improve. Currently, we cover the fundamentals of programming. We mainly use Java as the language for coding.",
+        "url": "https://www.geek-programmer.com/about-us/"
+    }
+]
