@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { Post } from '../../models/post';
 import { PostsService } from '../../services/posts.service';
 
 @Component({
@@ -17,12 +16,7 @@ export class PostsComponent implements OnInit {
 
   ngOnInit() {
     this.postsService.getPosts().then(posts => {
-      
       this.posts = posts;
-      console.log(this.posts);
-      console.log(this.posts.posts);
-
     });
   }
-
 }
