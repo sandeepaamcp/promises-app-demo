@@ -6,8 +6,6 @@ import { HttpClient } from "@angular/common/http";
 export class PostsService {
   url:string = URL;
   
-  
-
   constructor(private http: HttpClient) { }
 
   public getPosts(){
